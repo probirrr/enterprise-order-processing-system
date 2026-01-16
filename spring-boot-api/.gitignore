@@ -1,0 +1,6 @@
+# Maven build output
+target/
+
+# macOS system files
+.DS_Store
+
